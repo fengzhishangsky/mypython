@@ -13,3 +13,5 @@ for v in d.itervalues():
     sum +=v
 print sum
 print sum/len(d)
+
+#dict
